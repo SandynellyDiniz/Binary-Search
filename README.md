@@ -5,13 +5,13 @@
     It allows you to perform efficient searches in ordered lists. Let's explore how it works:
 </h3>
 
-<h3>1 - Basic Principle:</h3>
+<h3>🌱 - Basic Principle:</h3>
 <ul>
   <li>Binary search is applied to an ordered list (e.g. a list of numbers in ascending order).</li>
   <li>The algorithm repeatedly splits the list in half, reducing the possible locations of the searched element.</li>
 </ul>
 
-<h3>2 - Algorithm Steps:</h3>
+<h3>🧪 - Algorithm Steps:</h3>
 <ul>
   <li>Initially, we have the complete list.</li>
   <li>We calculate the index of the intermediate element of the list.</li>
@@ -22,7 +22,7 @@
   <li>We continue dividing the list until we find the element or determine that it is not present.</li>
 </ul>
 
-<h3>3 - Efficiency:</h3>
+<h3>🚀 - Efficiency:</h3>
 <ul>
   <li>Binary search is very efficient, as each iteration reduces the search space by half.</li>
   <li>Its complexity is O(log n), where n is the size of the list.</li>
