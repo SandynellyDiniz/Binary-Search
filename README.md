@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Binary Search</h2>
+<h2 align="center">Binary Search 🕵🏻‍♀️🔍</h2>
 <h3>Binary search, is a fundamental algorithm in computer science. 
     It allows you to perform efficient searches in ordered lists. Let's explore how it works:
 </h3>
