@@ -1,6 +1,10 @@
 
 
 <h2 align="center">Binary Search 🕵🏻‍♀️🔍</h2>
+ <h3>Technology Used :</h3>
+<ul> 
+     <img alt="SD-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</ul>    
 <h3>Binary search, is a fundamental algorithm in computer science. 
     It allows you to perform efficient searches in ordered lists. Let's explore how it works:
 </h3>
