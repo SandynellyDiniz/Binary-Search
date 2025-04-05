@@ -1,6 +1,9 @@
 
 
 <h2>Binary Search 🕵🏻‍♀️🔍</h2>
+
+![Image](https://github.com/user-attachments/assets/4d30d515-ba46-4a9c-90c6-5aae102d086b)
+
  <h3>Technology Used :</h3>
 <ul> 
      <img alt="SD-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
