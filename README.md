@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Binary Search 🕵🏻‍♀️🔍</h2>
+<h2>Binary Search 🕵🏻‍♀️🔍</h2>
  <h3>Technology Used :</h3>
 <ul> 
      <img alt="SD-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
