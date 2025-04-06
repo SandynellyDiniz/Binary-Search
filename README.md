@@ -1,8 +1,8 @@
+<h2 align="center">Binary Search 🕵🏻‍♀️🔍
 
+<br>![Image](https://github.com/user-attachments/assets/4d30d515-ba46-4a9c-90c6-5aae102d086b)
 
-<h2>Binary Search 🕵🏻‍♀️🔍</h2>
-
-![Image](https://github.com/user-attachments/assets/4d30d515-ba46-4a9c-90c6-5aae102d086b)
+</h2>
 
  <h3>Technology Used :</h3>
 <ul> 
